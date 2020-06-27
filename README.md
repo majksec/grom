@@ -4,7 +4,7 @@ Http/Https checker built with love~
 
 #Creators
 
-~Elon Dusk
+~Elon Dusk ( https://github.com/ElonDusk26 ) 
 ~majksec
 
 #About
