@@ -14,7 +14,7 @@ Open source http/https checker witch can cooperate with sublister, or any other 
 
 Multi threading make script really fast and efficient in your recon.
 
-#Syntax: $python grom.py {define your subdomain file(ex. subdomains.txt)} {define name of file witch will contain subdomains}
+#Syntax: $python grom.py {define your subdomain file(ex. subdomains.txt)} {define output file with checked subdomains}
 
 #Note
 
