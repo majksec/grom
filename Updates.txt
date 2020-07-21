@@ -1,0 +1,5 @@
+7.21.2020 - Updated program efficiency and improved execution speed.
+          - Color output { Green - reponse 200,
+                           Blue - reacable domain but response is not 200
+                           Red - Domain is not reachable } 
+              
